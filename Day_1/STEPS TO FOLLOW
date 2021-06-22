@@ -1,0 +1,10 @@
+Import the libraru
+Create database
+Call the method known as Cursor()
+create table
+insert data
+Get the version through use of Query (sqlite3.version)
+Then Commit
+From Step 1 to 7 should be under the try
+Then the Except command which checks for error
+then finall step which is to close
