@@ -21,7 +21,7 @@ Reduce Cost and Complexity-It reduces application cost because content can be ac
 •	Database size is restricted to 2GB in most cases.
 •	No built in data encryption methods/ techniques
 5)	Features:
-•	Serverless- Programs that want to access the database communicate with the server using some kind of inter-process communication (typically TCP/IP) to send requests to the server and to receive back results.
+•	Serverless- Programs that want to access the database communicate with the server using some kind of inter-process communication (typically TCP/IP) to send requests to the server and to receive back results. SQLite does not work this way. With SQLite, the process that wants to access the database reads and writes directly from the database files on disk. There is no intermediary server process.
 •	Stable Cross-Platform Database File- A database file written on one machine can be copied to and used on a different machine with a different architecture
 •	.Compact-When optimized for size, the whole SQLite library with everything enabled is less than 500KiB in size (as measured on an ix86 using the "size" utility from the GNU compiler suite.) Unneeded features can be disabled at compile-time to further reduce the size of the library to under 300KiB if desired.
 •	Manifest typing-SQLite thus allows the user to store any value of any datatype into any column regardless of the declared type of that column. (There are some exceptions to this rule: An INTEGER PRIMARY KEY column may only store integers.
