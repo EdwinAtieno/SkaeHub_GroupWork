@@ -1,0 +1,11 @@
+Requirements : 1) Download selenium and import webdriver (Installation guide- https://pypi.org/project/selenium/#description , https://selenium-python.readthedocs.io/waits.html
+               2) Should have browser (chrome, firefox)
+Steps :
+        1) should import webdriver from selenium
+        2) Allow user to input the twitter handle
+        3) Call the webdriver depending on the browser
+        4) Tell the webdriver the time to wait before sending a "No such Element Exception"
+        5) direct the twitter using get() method
+        6) opens the browser based on the twitter handle displaying the profile
+        7) print the number of followers then closes the chrome openned
+        8) method to close & destroy both the WebDriver and Web Browser instances gracefully after each run of Test Execution.
