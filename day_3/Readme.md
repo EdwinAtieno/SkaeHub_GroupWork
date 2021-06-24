@@ -45,8 +45,9 @@ Q3)
       5. prompt user if they want the data in pdf
           - if yes, generate pdf
           - else if no, exit
-          
-          ![Project Name (3)](https://user-images.githubusercontent.com/60142434/123335842-b3c28580-d54d-11eb-80d2-9fcfe45f1aaf.gif)
+     ![Project Name (3)](https://user-images.githubusercontent.com/60142434/123335932-d8b6f880-d54d-11eb-9dbd-4b35f8e4ed7f.gif)
+         
+         
 
           
           
