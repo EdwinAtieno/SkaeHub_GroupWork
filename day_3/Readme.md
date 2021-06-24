@@ -17,6 +17,8 @@ Q1)
         3) Filter Based on Conditions
         4) Sort the data
         5) Get top 20 countries (edited)
+        ![Project Name (1)](https://user-images.githubusercontent.com/60142434/123334904-6b569800-d54c-11eb-96bc-9de35625c4b7.gif)
+
       
       
 Q2)
@@ -31,7 +33,8 @@ Q2)
         8) add title
         9) labeling x and y
         10) ask user if to convert into pdf
-          
+          ![Project Name (2)](https://user-images.githubusercontent.com/60142434/123335201-cc7e6b80-d54c-11eb-8abf-364b77e3dddb.gif)
+
       
 Q3) 
     STEPS:
@@ -42,6 +45,12 @@ Q3)
       5. prompt user if they want the data in pdf
           - if yes, generate pdf
           - else if no, exit
+          
+          ![Project Name (3)](https://user-images.githubusercontent.com/60142434/123335842-b3c28580-d54d-11eb-80d2-9fcfe45f1aaf.gif)
+
+          
+          
+          
           
  Q4) PDF:
     STEPS:
