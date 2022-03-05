@@ -1,4 +1,4 @@
 # SkaeHub_GroupWork
 
 
-Daily Group Assignment
+Daily Group Assignment.
